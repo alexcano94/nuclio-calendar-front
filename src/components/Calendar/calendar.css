@@ -1,0 +1,14 @@
+.calendar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.actions {
+    margin-right: 40px;
+}
+
+.content {
+    margin-left: 40px;
+}
+
